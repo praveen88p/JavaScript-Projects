@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(101, 101, 154);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.main-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+img{
+    background-color:rgb(101, 101, 154);
+    margin-top: 200px;
+}
